@@ -1,0 +1,13 @@
+textarea {
+    min-height: 400px;
+}
+
+.email{
+    border: solid 1px black;
+    padding: 6px;
+    margin-top: 3px;
+}
+
+.gray{
+    background-color: gray;
+}
